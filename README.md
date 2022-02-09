@@ -24,7 +24,7 @@ La agenda como tal debe tener presente los siguientes puntos:
 5. Se debe poder insertar, modificar, buscar y eliminar un contacto de la agenda.
 Todo lo anterior se debe de entregar en dos repositorios, uno para la hoja de vida y otro para la
 agenda de contactos. Cuando termine por favor enviar los dos enlaces de los repositorios en
-Github o Gitlab a julian.lasso@sofka.com.co y raul.alzate@sofka.com.co con el asunto Reto
+Github o Gitlab .
 técnico para el paso de Cantera Nivel 1 a Nivel 2.
 
 
